@@ -11,9 +11,8 @@
   transform:  translateX(-50%)
 }
 
-@mixin centerer-xy(){
+@mixin centerer-y(){
   position: absolute;
-  left: 50%;
   top: 50%;
   transform: translateY(-50%)
 }
