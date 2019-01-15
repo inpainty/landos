@@ -16,6 +16,13 @@
     font-weight: 300;
   }
 
+  @media(max-width: 599px){
+    padding: 100px 20px;
+    min-height: inherit;
+  }
+
+
+
 
   .button--text-uppercase{
     padding: 21px 41px;
